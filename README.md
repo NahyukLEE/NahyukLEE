@@ -12,8 +12,8 @@ I'am very interested in **Machine Learning** and **Computer Vision**.
 
 | **Type** | **Date** | **Major** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **High School** | 2015. 03 ~ 2018. 02 | Natural Science Trak | **Hyundai Chung-Un High School** |
-| **University** | 2019. 03 ~ Now | School of Computer Science & Engineering | **Chung-Ang University** |
+| **High School** | 2015. 03 ~ 2018. 02 | Natural Science Track | **Hyundai ChungUn High School** |
+| **University** | 2019. 03 ~ Now | Computer Science & Engineering | **Chung-Ang University** |
 
 - 🔭 I’m currently working on Computer Graphics Lab @ CAU
 
