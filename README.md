@@ -13,7 +13,7 @@ I'am very interested in **Machine Learning** and **Computer Vision**.
 | **Type** | **Date** | **Major** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **High School** | 2015. 03 ~ 2018. 02 | Natural Science Track | **Hyundai ChungUn High School** |
-| **University** | 2019. 03 ~ Now | Computer Science & Engineering | **Chung-Ang University** |
+| **Bachelor** | 2019. 03 ~ Now | Computer Science & Engineering | **Chung-Ang University** |
 
 ### ✨ Career
 
