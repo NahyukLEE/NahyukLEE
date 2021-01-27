@@ -17,7 +17,7 @@ I'am very interested in **Machine Learning** and **Computer Vision**.
 
 ### ✨ Career
 
-| **Type** | **Date** | **Major** | **Organization** |
+| **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Research activities** | 2019. 06 ~ 2020. 02 | Technology-Research Team Leader | **COPANT Research Group** |
 | **Research activities** | 2019. 12 ~ Now | Undergraduate Research Assistance | **Computer Graphics Lab @CAU** |
