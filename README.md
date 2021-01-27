@@ -15,21 +15,10 @@ I'am very interested in **Machine Learning** and **Computer Vision**.
 | **High School** | 2015. 03 ~ 2018. 02 | Natural Science Track | **Hyundai ChungUn High School** |
 | **University** | 2019. 03 ~ Now | Computer Science & Engineering | **Chung-Ang University** |
 
-- 🔭 I’m currently working on Computer Graphics Lab @ CAU
+### ✨ Career
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<!--
-**NahyukLEE/NahyukLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+| **Type** | **Date** | **Major** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Research activities** | 2019. 06 ~ 2020. 02 | Technology-Research Team Leader | **COPANT Research Group** |
+| **Research activities** | 2019. 12 ~ Now | Undergraduate Research Assistance | **Computer Graphics Lab @CAU** |
+| **External activities** | 2019. 05 ~ 2019. 08 | 'Narle' Application Planning Team | **KT** |
