@@ -10,11 +10,13 @@ I'm very interested in **Machine Learning** and **Computer Vision**.
 ---
 ##### Programming Languages
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%233776AB?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007396?style=for-the-badge&logo=Java&logoColor=white) 
+
 Since 2019, I have project experinece using **Python(My most confident language)**. 
 And I can also use **Java**, **C**, **SQL** etc.
 
 ##### Technical Stacks
 ![OpenCV](https://img.shields.io/badge/OpenCV-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) ![Open3D](https://img.shields.io/badge/Open3D-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-297fb9?style=flat-square&logo=intel&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 Since 2020, I have been working on CG Lab@CAU and doing my job with **OpenCV**, **Scikit-Learn**, and **Open3D**.
 Recently, I'm studying **Pytorch** for deep learning research.
 
