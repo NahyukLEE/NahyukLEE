@@ -11,7 +11,7 @@ I'm very interested in **Machine Learning** and **Computer Vision**.
 ##### Programming Languages
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%233776AB?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-007396?style=for-the-badge&logo=Java&logoColor=white) 
 
-Since 2019, I have project experinece using **Python(My most confident language)**. 
+Since 2019, I have project experience using **Python(My most confident language)**. 
 And I can also use **Java**, **C**, **SQL** etc.
 
 ##### Technical Stacks
