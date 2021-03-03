@@ -41,8 +41,8 @@ Recently, I'm studying **Pytorch** for deep learning research.
 | **Research** | 3D Reconstruction and Object Recognition based on Single Dataset and Auto labelling **(Funded by NRF)**  | 2019. 12 ~ **Now**  | Computer Vision Developer | Link |
 | **Research** |   AI-based Virtual Space Structure Estimation Technology Using Interior Space Point Cloud **(Funded by KEIT)** | 2020. 04 ~ **Now**  | Computer Vision Developer | [Paper(KCI)](http://www.riss.kr/link?id=A107141984), Link |
 | **Research**  | AI-based Dementia Severity Prediction **(Funded by Chung-Ang Univ. Hospital)**  | 2020. 07 ~ **Now**  | Deep Learning Developer  | [Link](https://github.com/NahyukLEE/AI-based-Dementia-Severity-Prediction) |
-| **Club Project**  | Color-based Emotional Analysis using Machine Learning **(1st place Award 🏆 in CUAI 3rd Final Conference)**  | 2020. 07 ~ 2020. 09  | Machine Learning Developer | [Link](https://github.com/NahyukLEE/Emotional_classification_and_Painting_rendering_system_based_on_Biological_signals)  |
-| **Club Project**  | Emotional Classification and Painting Rendering System based on Biological Signals **(2nd place Award 🥈 in 3rd AI-humanity Academic Competition)** | 2020. 09 ~ 2021. 01  | Full Developer  | [Link](https://github.com/NahyukLEE/Color-based-Emotional-Analysis-using-Machine-Learning)  |
+| **Club Project**  | Color-based Emotional Analysis using Machine Learning **(1st place Award 🏆 in CUAI 3rd Final Conference)**  | 2020. 07 ~ 2020. 09  | Machine Learning Developer | [Link](https://github.com/NahyukLEE/Color-based-Emotional-Analysis-using-Machine-Learning)  |
+| **Club Project**  | Emotional Classification and Painting Rendering System based on Biological Signals **(2nd place Award 🥈 in 3rd AI-humanity Academic Competition)** | 2020. 09 ~ 2021. 01  | Full Developer  | [Link](https://github.com/NahyukLEE/Emotional_classification_and_Painting_rendering_system_based_on_Biological_signals)  |
 
 
 
