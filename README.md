@@ -15,7 +15,7 @@ I'm very interested in **Machine Learning** and **Computer Vision**.
 ### ✨ Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Research activities** | 2019. 12 ~ **Now** | Undergraduate Lab Intern | **Computer Graphics / Graphics Realization Lab** <br> **@ Chung-Ang Univ. CSE / AT 🐲** |
+| **Research activities** | 2019. 12 ~ **Now** | Undergraduate Lab Intern | **Computer Graphics Lab** <br> **@ Chung-Ang Univ. CSE 🐲** |
 | **Research activities** | 2021. 03 ~ **Now** | Undergraduate Lab Intern | **Computer Vision Lab** <br> **@ Korea Univ. AI 🐯** |
 | **External activities** | 2019. 05 ~ 2019. 08 | 'Narle' Application Planning Team | **KT** |
 | **Teaching activities** | 2019. 06 ~ 2021. 02 | CSE Facilitator & Tutor | **KSCY (Korea Scholar's Conference for Youth)** |
