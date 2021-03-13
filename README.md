@@ -6,7 +6,7 @@
 Hello. My name is Nahyuk, I am a B.S student in **Chung-Ang University**.
 
 My major is **Computer Science & Engineering**💻 and also **Applied Statistics**📊 as double major.
-I'm very interested in **Machine Learning** and **Computer Vision**.
+I'm very interested in **3D Graphics** and **Computer Vision**.
 
 
 [![Nahyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahyukLEE)](https://github.com/NahyukLEE/github-readme-stats)
