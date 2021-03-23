@@ -24,7 +24,7 @@ I'm very interested in **3D Graphics** and **Computer Vision**.
 | **Type** | **Subject** | **Date** | **My Role** | **Repository** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Research**  | Event-based 3D Object Reconstruction using Dynamic Vision Sensor  | 2021. 03 ~ Now  | Computer Vision Developer  | Link |
-| **Research**  | AI-based Dementia Severity Prediction **(Funded by Chung-Ang Univ. Hospital)**  | 2020. 07 ~ 2021. 03  | Deep Learning Developer  | [Link](https://github.com/NahyukLEE/AI-based-Dementia-Severity-Prediction) |
+| **Research**  | AI-based Dementia Severity Prediction **(Funded by Chung-Ang Univ. Hospital)**  | 2020. 07 ~ 2021. 03  | Deep Learning Developer  | Paper(SCIE, Preparing), <br> [Link](https://github.com/NahyukLEE/AI-based-Dementia-Severity-Prediction) |
 | **Research** |   AI-based Virtual Space Structure Estimation Technology Using Interior Space Point Cloud **(Funded by KEIT)** | 2020. 04 ~ 2021. 02  | Computer Vision Developer | Link |
 | **Research** | 3D Reconstruction and Object Recognition based on Single Dataset and Auto labelling **(Funded by NRF)**  | 2019. 12 ~ 2020. 11  | Computer Vision Developer | [Paper(KCI)](http://www.riss.kr/link?id=A107141984), <br> Link |
 | **Club Project**  | Color-based Emotional Analysis using Machine Learning **(2nd place Award 🥈 in 3rd AI-humanity Academic Competition & Proceeding Accepted 📑 in CSCI2020!)**  | 2020. 07 ~ 2020. 09  | Machine Learning Developer | [Paper(Proceeding)](https://ieeexplore.ieee.org/xpl/conhome/1803739/all-proceedings), <br> [Link](https://github.com/NahyukLEE/Color-based-Emotional-Analysis-using-Machine-Learning)|
