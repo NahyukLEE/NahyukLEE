@@ -23,7 +23,7 @@ I'm very interested in **3D Graphics** and **Computer Vision**.
 ### 💜 Project
 | **Type** | **Subject** | **Date** | **My Role** | **Repository** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Research**  | Event-based 3D Object Reconstruction using Dynamic Vision Sensor  | 2021. 03 ~ Now  | Computer Vision Developer  | Link |
+| **Research**  | Event-based 3D Object Reconstruction using Dynamic Vision Sensor  | 2021. 03 ~ Now  | Deep Learning Developer  | Link |
 | **Research**  | AI-based Dementia Severity Prediction **(Funded by Chung-Ang Univ. Hospital)**  | 2020. 07 ~ 2021. 03  | Deep Learning Developer  | Paper(Preparing), <br> [Link](https://github.com/NahyukLEE/AI-based-Dementia-Severity-Prediction) |
 | **Research** |   AI-based Virtual Space Structure Estimation Technology Using Interior Space Point Cloud **(Funded by KEIT)** | 2020. 04 ~ 2021. 02  | Computer Vision Developer | Link |
 | **Research** | 3D Reconstruction and Object Recognition based on Single Dataset and Auto labelling **(Funded by NRF)**  | 2019. 12 ~ 2020. 11  | Computer Vision Developer | [Paper(KCI)](http://www.riss.kr/link?id=A107141984), <br> Link |
